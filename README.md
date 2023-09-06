@@ -26,7 +26,9 @@ Feel free to fork this repository, submit pull requests, or raise issues to make
 Note:
 
 While this script offers a good level of randomness for casual use, it's always a good idea to use trusted, well-established password managers for critical applications.
+
 ---
+
 # Generator Kata Sandi Acak
 
 Skrip Python ini menyediakan cara yang sederhana dan efektif untuk menghasilkan kata sandi acak.
